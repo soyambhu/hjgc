@@ -46,5 +46,4 @@ function draw()
     noFill();
     stroke("#FF0000");
     rect(300, 90, 270, 320 );
-
 }
